@@ -23,3 +23,6 @@
 
 * Lifehacker Ubuntu Software Recommendations
    If you're running Ubuntu as a desktop OS try out some of Lifehackers recommended apps from [here](http://lifehacker.com/lifehacker-pack-for-linux-our-list-of-the-essential-li-815376368)
+
+* General Systems Explainers - Julia Evans
+   Julia Evans runs a blog that has a mix of very complicated debugging and also very useful simple guides to systems components. I recommend her drawings series, especially on Networking, which you can find [here](http://jvns.ca/)
